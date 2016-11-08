@@ -1,0 +1,1 @@
+In order to start the application move to the src directory in the terminal and execute the following command: python run.py
